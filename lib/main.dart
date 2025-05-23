@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'provider/project_task_provider.dart';
+import 'provider/time_tracker_provider.dart';
 import 'models/time_entry.dart';
 
 void main() {
