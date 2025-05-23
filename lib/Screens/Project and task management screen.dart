@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'models/project.dart';
 import 'models/task.dart';
-import 'providers/project_task_provider.dart';
+import 'providers/time_tracker_provider.dart';
 
 class ProjectTaskManagementScreen extends StatelessWidget {
   @override
